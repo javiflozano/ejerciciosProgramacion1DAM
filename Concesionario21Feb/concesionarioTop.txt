@@ -1,0 +1,3 @@
+SabiCar SA;Sabiñanigo;Manuel Perez Garcia;4;1111247000
+CarLuxury SA;Málaga;Lucía García Fernández;7;287000
+AutoExpress SA;Toledo;Carlos García Martínez;7;287000

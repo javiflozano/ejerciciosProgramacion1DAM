@@ -1,0 +1,2 @@
+Ana;Perez;5
+Lucia;Aso;8
