@@ -1,0 +1,20 @@
+Juan Perez;8;7;9;6;8
+Maria Gonzalez;6;5;7;8;6
+Carlos Rodriguez;9;8;7;6;9
+Laura Gomez;5;4;3;7;5
+Miguel Lopez;7;9;6;8;7
+Ana Martinez;8;7;9;6;8
+Pedro Sanchez;6;2;0;8;6
+Elena Fernandez;9;8;7;6;9
+David Garcia;5;6;8;7;5
+Isabel Ruiz;7;9;6;8;7
+Jose Torres;8;7;9;6;8
+Sara Diaz;6;5;7;8;6
+Alejandro Jimenez;9;8;7;6;9
+Luisa Castro;5;6;8;7;5
+Raul Vargas;7;9;6;8;7
+Carmen Flores;8;7;9;6;8
+Javier Martin;6;5;7;8;6
+Patricia Lopez;9;8;7;6;9
+Roberto Perez;5;6;8;7;5
+Ana Maria Garcia;7;9;6;8;7
