@@ -1,0 +1,380 @@
+Real Madrid;FC Barcelona;2;1
+Real Madrid;Atlético de Madrid;0;1
+Real Madrid;Valencia CF;0;2
+Real Madrid;Sevilla FC;0;2
+Real Madrid;Real Betis;1;1
+Real Madrid;Athletic Club de Bilbao;0;1
+Real Madrid;Villarreal CF;2;1
+Real Madrid;Real Sociedad;0;0
+Real Madrid;Espanyol;1;0
+Real Madrid;Getafe CF;2;2
+Real Madrid;Celta de Vigo;0;0
+Real Madrid;SD Huesca;2;1
+Real Madrid;Deportivo Alavés;1;0
+Real Madrid;SD Eibar;1;2
+Real Madrid;Real Valladolid;2;1
+Real Madrid;Granada CF;2;0
+Real Madrid;Osasuna;2;0
+Real Madrid;Elche CF;1;2
+Real Madrid;Cádiz CF;2;1
+FC Barcelona;Real Madrid;2;1
+FC Barcelona;Atlético de Madrid;1;1
+FC Barcelona;Valencia CF;0;0
+FC Barcelona;Sevilla FC;0;1
+FC Barcelona;Real Betis;2;1
+FC Barcelona;Athletic Club de Bilbao;1;1
+FC Barcelona;Villarreal CF;2;0
+FC Barcelona;Real Sociedad;1;0
+FC Barcelona;Espanyol;1;1
+FC Barcelona;Getafe CF;1;0
+FC Barcelona;Celta de Vigo;1;2
+FC Barcelona;SD Huesca;1;0
+FC Barcelona;Deportivo Alavés;1;2
+FC Barcelona;SD Eibar;2;2
+FC Barcelona;Real Valladolid;1;2
+FC Barcelona;Granada CF;0;1
+FC Barcelona;Osasuna;1;0
+FC Barcelona;Elche CF;1;2
+FC Barcelona;Cádiz CF;2;1
+Atlético de Madrid;Real Madrid;2;1
+Atlético de Madrid;FC Barcelona;0;2
+Atlético de Madrid;Valencia CF;0;0
+Atlético de Madrid;Sevilla FC;2;0
+Atlético de Madrid;Real Betis;0;2
+Atlético de Madrid;Athletic Club de Bilbao;0;0
+Atlético de Madrid;Villarreal CF;0;1
+Atlético de Madrid;Real Sociedad;0;1
+Atlético de Madrid;Espanyol;0;0
+Atlético de Madrid;Getafe CF;2;1
+Atlético de Madrid;Celta de Vigo;2;2
+Atlético de Madrid;SD Huesca;0;1
+Atlético de Madrid;Deportivo Alavés;1;1
+Atlético de Madrid;SD Eibar;0;0
+Atlético de Madrid;Real Valladolid;2;1
+Atlético de Madrid;Granada CF;2;2
+Atlético de Madrid;Osasuna;2;1
+Atlético de Madrid;Elche CF;2;1
+Atlético de Madrid;Cádiz CF;2;2
+Valencia CF;Real Madrid;1;0
+Valencia CF;FC Barcelona;2;2
+Valencia CF;Atlético de Madrid;1;2
+Valencia CF;Sevilla FC;1;2
+Valencia CF;Real Betis;1;0
+Valencia CF;Athletic Club de Bilbao;2;1
+Valencia CF;Villarreal CF;1;2
+Valencia CF;Real Sociedad;2;2
+Valencia CF;Espanyol;0;0
+Valencia CF;Getafe CF;1;0
+Valencia CF;Celta de Vigo;1;2
+Valencia CF;SD Huesca;2;1
+Valencia CF;Deportivo Alavés;1;2
+Valencia CF;SD Eibar;2;2
+Valencia CF;Real Valladolid;0;1
+Valencia CF;Granada CF;2;1
+Valencia CF;Osasuna;1;0
+Valencia CF;Elche CF;1;2
+Valencia CF;Cádiz CF;1;0
+Sevilla FC;Real Madrid;2;1
+Sevilla FC;FC Barcelona;0;0
+Sevilla FC;Atlético de Madrid;2;2
+Sevilla FC;Valencia CF;2;1
+Sevilla FC;Real Betis;2;2
+Sevilla FC;Athletic Club de Bilbao;2;2
+Sevilla FC;Villarreal CF;0;1
+Sevilla FC;Real Sociedad;0;2
+Sevilla FC;Espanyol;1;1
+Sevilla FC;Getafe CF;2;0
+Sevilla FC;Celta de Vigo;0;1
+Sevilla FC;SD Huesca;2;2
+Sevilla FC;Deportivo Alavés;2;1
+Sevilla FC;SD Eibar;0;1
+Sevilla FC;Real Valladolid;0;2
+Sevilla FC;Granada CF;2;0
+Sevilla FC;Osasuna;0;1
+Sevilla FC;Elche CF;1;0
+Sevilla FC;Cádiz CF;2;1
+Real Betis;Real Madrid;2;1
+Real Betis;FC Barcelona;1;0
+Real Betis;Atlético de Madrid;1;1
+Real Betis;Valencia CF;1;0
+Real Betis;Sevilla FC;1;0
+Real Betis;Athletic Club de Bilbao;0;2
+Real Betis;Villarreal CF;0;2
+Real Betis;Real Sociedad;2;1
+Real Betis;Espanyol;0;0
+Real Betis;Getafe CF;0;2
+Real Betis;Celta de Vigo;0;0
+Real Betis;SD Huesca;2;0
+Real Betis;Deportivo Alavés;2;0
+Real Betis;SD Eibar;2;1
+Real Betis;Real Valladolid;2;2
+Real Betis;Granada CF;1;2
+Real Betis;Osasuna;2;1
+Real Betis;Elche CF;2;0
+Real Betis;Cádiz CF;2;1
+Athletic Club de Bilbao;Real Madrid;0;1
+Athletic Club de Bilbao;FC Barcelona;2;1
+Athletic Club de Bilbao;Atlético de Madrid;0;1
+Athletic Club de Bilbao;Valencia CF;1;0
+Athletic Club de Bilbao;Sevilla FC;0;0
+Athletic Club de Bilbao;Real Betis;0;0
+Athletic Club de Bilbao;Villarreal CF;2;2
+Athletic Club de Bilbao;Real Sociedad;2;1
+Athletic Club de Bilbao;Espanyol;1;2
+Athletic Club de Bilbao;Getafe CF;2;0
+Athletic Club de Bilbao;Celta de Vigo;1;1
+Athletic Club de Bilbao;SD Huesca;2;1
+Athletic Club de Bilbao;Deportivo Alavés;1;1
+Athletic Club de Bilbao;SD Eibar;2;2
+Athletic Club de Bilbao;Real Valladolid;2;0
+Athletic Club de Bilbao;Granada CF;1;1
+Athletic Club de Bilbao;Osasuna;0;1
+Athletic Club de Bilbao;Elche CF;0;0
+Athletic Club de Bilbao;Cádiz CF;0;2
+Villarreal CF;Real Madrid;1;1
+Villarreal CF;FC Barcelona;0;1
+Villarreal CF;Atlético de Madrid;1;2
+Villarreal CF;Valencia CF;1;0
+Villarreal CF;Sevilla FC;1;0
+Villarreal CF;Real Betis;2;1
+Villarreal CF;Athletic Club de Bilbao;0;2
+Villarreal CF;Real Sociedad;2;2
+Villarreal CF;Espanyol;2;2
+Villarreal CF;Getafe CF;1;1
+Villarreal CF;Celta de Vigo;2;0
+Villarreal CF;SD Huesca;2;2
+Villarreal CF;Deportivo Alavés;2;2
+Villarreal CF;SD Eibar;0;1
+Villarreal CF;Real Valladolid;0;0
+Villarreal CF;Granada CF;2;1
+Villarreal CF;Osasuna;2;0
+Villarreal CF;Elche CF;2;0
+Villarreal CF;Cádiz CF;2;1
+Real Sociedad;Real Madrid;1;2
+Real Sociedad;FC Barcelona;0;0
+Real Sociedad;Atlético de Madrid;1;0
+Real Sociedad;Valencia CF;1;0
+Real Sociedad;Sevilla FC;2;2
+Real Sociedad;Real Betis;1;0
+Real Sociedad;Athletic Club de Bilbao;2;0
+Real Sociedad;Villarreal CF;2;2
+Real Sociedad;Espanyol;2;1
+Real Sociedad;Getafe CF;1;2
+Real Sociedad;Celta de Vigo;0;2
+Real Sociedad;SD Huesca;0;0
+Real Sociedad;Deportivo Alavés;2;1
+Real Sociedad;SD Eibar;0;2
+Real Sociedad;Real Valladolid;2;2
+Real Sociedad;Granada CF;1;1
+Real Sociedad;Osasuna;1;1
+Real Sociedad;Elche CF;2;2
+Real Sociedad;Cádiz CF;0;0
+Espanyol;Real Madrid;1;2
+Espanyol;FC Barcelona;2;2
+Espanyol;Atlético de Madrid;1;1
+Espanyol;Valencia CF;0;1
+Espanyol;Sevilla FC;1;2
+Espanyol;Real Betis;1;1
+Espanyol;Athletic Club de Bilbao;0;2
+Espanyol;Villarreal CF;0;2
+Espanyol;Real Sociedad;1;1
+Espanyol;Getafe CF;0;0
+Espanyol;Celta de Vigo;0;1
+Espanyol;SD Huesca;1;0
+Espanyol;Deportivo Alavés;0;0
+Espanyol;SD Eibar;1;0
+Espanyol;Real Valladolid;2;1
+Espanyol;Granada CF;1;0
+Espanyol;Osasuna;0;0
+Espanyol;Elche CF;1;0
+Espanyol;Cádiz CF;2;0
+Getafe CF;Real Madrid;0;0
+Getafe CF;FC Barcelona;2;1
+Getafe CF;Atlético de Madrid;1;0
+Getafe CF;Valencia CF;2;0
+Getafe CF;Sevilla FC;2;2
+Getafe CF;Real Betis;2;2
+Getafe CF;Athletic Club de Bilbao;2;0
+Getafe CF;Villarreal CF;1;1
+Getafe CF;Real Sociedad;2;0
+Getafe CF;Espanyol;2;2
+Getafe CF;Celta de Vigo;2;2
+Getafe CF;SD Huesca;2;0
+Getafe CF;Deportivo Alavés;1;0
+Getafe CF;SD Eibar;1;0
+Getafe CF;Real Valladolid;0;2
+Getafe CF;Granada CF;2;0
+Getafe CF;Osasuna;1;1
+Getafe CF;Elche CF;2;2
+Getafe CF;Cádiz CF;2;1
+Celta de Vigo;Real Madrid;2;2
+Celta de Vigo;FC Barcelona;0;1
+Celta de Vigo;Atlético de Madrid;0;2
+Celta de Vigo;Valencia CF;1;1
+Celta de Vigo;Sevilla FC;2;1
+Celta de Vigo;Real Betis;1;1
+Celta de Vigo;Athletic Club de Bilbao;2;0
+Celta de Vigo;Villarreal CF;1;0
+Celta de Vigo;Real Sociedad;0;2
+Celta de Vigo;Espanyol;0;0
+Celta de Vigo;Getafe CF;2;1
+Celta de Vigo;SD Huesca;1;0
+Celta de Vigo;Deportivo Alavés;2;2
+Celta de Vigo;SD Eibar;1;1
+Celta de Vigo;Real Valladolid;2;2
+Celta de Vigo;Granada CF;0;2
+Celta de Vigo;Osasuna;2;0
+Celta de Vigo;Elche CF;0;2
+Celta de Vigo;Cádiz CF;2;0
+SD Huesca;Real Madrid;1;1
+SD Huesca;FC Barcelona;2;0
+SD Huesca;Atlético de Madrid;2;1
+SD Huesca;Valencia CF;1;2
+SD Huesca;Sevilla FC;0;0
+SD Huesca;Real Betis;1;1
+SD Huesca;Athletic Club de Bilbao;0;0
+SD Huesca;Villarreal CF;0;2
+SD Huesca;Real Sociedad;2;1
+SD Huesca;Espanyol;0;1
+SD Huesca;Getafe CF;0;1
+SD Huesca;Celta de Vigo;1;0
+SD Huesca;Deportivo Alavés;0;1
+SD Huesca;SD Eibar;1;2
+SD Huesca;Real Valladolid;0;2
+SD Huesca;Granada CF;2;0
+SD Huesca;Osasuna;0;1
+SD Huesca;Elche CF;2;2
+SD Huesca;Cádiz CF;1;1
+Deportivo Alavés;Real Madrid;0;2
+Deportivo Alavés;FC Barcelona;1;2
+Deportivo Alavés;Atlético de Madrid;0;1
+Deportivo Alavés;Valencia CF;0;0
+Deportivo Alavés;Sevilla FC;1;0
+Deportivo Alavés;Real Betis;2;0
+Deportivo Alavés;Athletic Club de Bilbao;1;1
+Deportivo Alavés;Villarreal CF;2;2
+Deportivo Alavés;Real Sociedad;0;0
+Deportivo Alavés;Espanyol;0;0
+Deportivo Alavés;Getafe CF;2;0
+Deportivo Alavés;Celta de Vigo;0;0
+Deportivo Alavés;SD Huesca;1;1
+Deportivo Alavés;SD Eibar;2;2
+Deportivo Alavés;Real Valladolid;0;0
+Deportivo Alavés;Granada CF;2;2
+Deportivo Alavés;Osasuna;1;0
+Deportivo Alavés;Elche CF;2;0
+Deportivo Alavés;Cádiz CF;1;2
+SD Eibar;Real Madrid;1;2
+SD Eibar;FC Barcelona;0;1
+SD Eibar;Atlético de Madrid;2;2
+SD Eibar;Valencia CF;1;1
+SD Eibar;Sevilla FC;2;1
+SD Eibar;Real Betis;1;2
+SD Eibar;Athletic Club de Bilbao;0;0
+SD Eibar;Villarreal CF;1;0
+SD Eibar;Real Sociedad;2;0
+SD Eibar;Espanyol;2;0
+SD Eibar;Getafe CF;2;1
+SD Eibar;Celta de Vigo;0;2
+SD Eibar;SD Huesca;1;1
+SD Eibar;Deportivo Alavés;2;1
+SD Eibar;Real Valladolid;2;0
+SD Eibar;Granada CF;1;2
+SD Eibar;Osasuna;1;2
+SD Eibar;Elche CF;2;0
+SD Eibar;Cádiz CF;2;0
+Real Valladolid;Real Madrid;0;2
+Real Valladolid;FC Barcelona;1;0
+Real Valladolid;Atlético de Madrid;2;0
+Real Valladolid;Valencia CF;2;2
+Real Valladolid;Sevilla FC;1;2
+Real Valladolid;Real Betis;1;1
+Real Valladolid;Athletic Club de Bilbao;1;0
+Real Valladolid;Villarreal CF;2;0
+Real Valladolid;Real Sociedad;1;0
+Real Valladolid;Espanyol;2;1
+Real Valladolid;Getafe CF;2;2
+Real Valladolid;Celta de Vigo;2;2
+Real Valladolid;SD Huesca;2;1
+Real Valladolid;Deportivo Alavés;2;2
+Real Valladolid;SD Eibar;1;0
+Real Valladolid;Granada CF;2;0
+Real Valladolid;Osasuna;0;1
+Real Valladolid;Elche CF;0;0
+Real Valladolid;Cádiz CF;2;1
+Granada CF;Real Madrid;0;0
+Granada CF;FC Barcelona;2;2
+Granada CF;Atlético de Madrid;1;2
+Granada CF;Valencia CF;0;0
+Granada CF;Sevilla FC;0;0
+Granada CF;Real Betis;2;2
+Granada CF;Athletic Club de Bilbao;2;0
+Granada CF;Villarreal CF;1;1
+Granada CF;Real Sociedad;1;0
+Granada CF;Espanyol;1;2
+Granada CF;Getafe CF;1;0
+Granada CF;Celta de Vigo;2;0
+Granada CF;SD Huesca;2;0
+Granada CF;Deportivo Alavés;1;1
+Granada CF;SD Eibar;0;1
+Granada CF;Real Valladolid;1;2
+Granada CF;Osasuna;0;1
+Granada CF;Elche CF;0;1
+Granada CF;Cádiz CF;2;0
+Osasuna;Real Madrid;2;0
+Osasuna;FC Barcelona;0;0
+Osasuna;Atlético de Madrid;0;2
+Osasuna;Valencia CF;1;0
+Osasuna;Sevilla FC;2;1
+Osasuna;Real Betis;1;2
+Osasuna;Athletic Club de Bilbao;2;0
+Osasuna;Villarreal CF;0;2
+Osasuna;Real Sociedad;1;0
+Osasuna;Espanyol;0;0
+Osasuna;Getafe CF;1;2
+Osasuna;Celta de Vigo;1;1
+Osasuna;SD Huesca;2;1
+Osasuna;Deportivo Alavés;0;1
+Osasuna;SD Eibar;2;2
+Osasuna;Real Valladolid;0;0
+Osasuna;Granada CF;1;1
+Osasuna;Elche CF;0;2
+Osasuna;Cádiz CF;0;2
+Elche CF;Real Madrid;0;2
+Elche CF;FC Barcelona;1;1
+Elche CF;Atlético de Madrid;2;1
+Elche CF;Valencia CF;2;1
+Elche CF;Sevilla FC;0;0
+Elche CF;Real Betis;1;2
+Elche CF;Athletic Club de Bilbao;1;2
+Elche CF;Villarreal CF;1;2
+Elche CF;Real Sociedad;2;2
+Elche CF;Espanyol;1;0
+Elche CF;Getafe CF;1;0
+Elche CF;Celta de Vigo;1;2
+Elche CF;SD Huesca;2;0
+Elche CF;Deportivo Alavés;2;0
+Elche CF;SD Eibar;2;0
+Elche CF;Real Valladolid;0;1
+Elche CF;Granada CF;0;1
+Elche CF;Osasuna;1;2
+Elche CF;Cádiz CF;2;0
+Cádiz CF;Real Madrid;0;2
+Cádiz CF;FC Barcelona;2;2
+Cádiz CF;Atlético de Madrid;0;1
+Cádiz CF;Valencia CF;2;0
+Cádiz CF;Sevilla FC;0;1
+Cádiz CF;Real Betis;2;0
+Cádiz CF;Athletic Club de Bilbao;2;0
+Cádiz CF;Villarreal CF;0;1
+Cádiz CF;Real Sociedad;0;1
+Cádiz CF;Espanyol;0;0
+Cádiz CF;Getafe CF;1;1
+Cádiz CF;Celta de Vigo;0;2
+Cádiz CF;SD Huesca;1;1
+Cádiz CF;Deportivo Alavés;1;0
+Cádiz CF;SD Eibar;1;0
+Cádiz CF;Real Valladolid;2;2
+Cádiz CF;Granada CF;1;1
+Cádiz CF;Osasuna;2;0
+Cádiz CF;Elche CF;2;0
