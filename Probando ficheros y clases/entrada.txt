@@ -1,0 +1,20 @@
+1;Juan Perez;Laptop;1200.50
+2;Maria Gomez;Telefono;899.99;Auriculares;75.50
+3;Carlos Rodriguez;Tablet;450.25;Teclado;35.00;Auriculares;45.50
+4;Ana Sanchez;Smartwatch;199.99;Bateria externa;40.75;Cargador;15.25
+5;Javier Martinez;Camara;349.50;Tripode;80.25;Tarjeta de memoria;25.00;Funda;30.75;Bateria externa;42.00
+6;Laura Lopez;Monitor;499.75;Altavoces;120.00;Teclado;30.50
+7;Miguel Garcia;Disco duro externo;89.00;Fundas;15.50;Cable USB;12.75;Cargador;18.25;Auriculares;35.75
+8;Isabel Ruiz;Portatil;1099.25;Raton;30.00;Mochila;45.25
+9;Antonio Fernandez;Impresora;159.75;Papel;10.50;Toner;40.00;Cable USB;15.25
+10;Carmen Diaz;Smartphone;799.00;Funda;22.75;Cargador;18.50;Auriculares;35.25
+11;Sergio Vargas;Altavoces;59.50
+12;Elena Mendoza;Tarjeta de memoria;79.50;Cable USB;18.25;Adaptador;15.75
+13;Pablo Torres;Auriculares;49.00;Soporte para laptop;38.75;Cargador;18.50
+14;Luisa Navarro;Laptop;1200.50;Mochila;55.00;Raton;25.50
+15;Raul Medina;Telefono;899.99;Cargador;30.50
+16;Silvia Cordero;Tablet;450.25
+17;Ricardo Soto;Smartwatch;199.99;Base de carga;40.75;Correa;15.00
+18;Beatriz Ortega;Camara;349.50;Estuche;18.25;Tripode;55.50
+19;Daniel Jimenez;Monitor;499.75;Webcam;35.00
+20;Natalia Herrera;Disco duro externo;89.00;Hub USB;15.50;Cable USB;10.75

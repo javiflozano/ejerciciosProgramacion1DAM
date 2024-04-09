@@ -1,0 +1,7 @@
+Luis;5;7
+Ches;8;6
+Rodolfo;7;7
+Hugo;6;6
+Pilar;9;8
+David;10;7
+Ayoub;10;10
